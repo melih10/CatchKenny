@@ -1,7 +1,7 @@
 # CatchKenny
 Catch Kenny Game
 
-Click as much as you can on Kenny within 10 seconds! Get the highest score! 
+Click on Kenny as much as you can within 10 seconds! Get the highest score! 
 
 <img src="https://user-images.githubusercontent.com/94173500/205712994-8bbbfe5d-b60c-480c-bf77-41def2953372.png" width = "300" height = "500">
 
